@@ -1,6 +1,7 @@
 # RAMViewer (ramgs)
 
 **让 AI 真正理解硬件 —— 打通 AIGC 与嵌入式系统的最后一公里**
+> **观看演示视频**：https://www.bailing.design/video/
 
 [English](#english) | [中文](#中文)
 
