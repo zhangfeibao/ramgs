@@ -87,15 +87,7 @@
 ### 安装
 
 ```bash
-# 克隆仓库
-git clone https://github.com/your-repo/ramviewer.git
-cd ramviewer/ramgs
-
-# 安装依赖
-pip install -r requirements.txt
-
-# 或构建独立可执行文件
-build.bat  # 输出: dist/ramgs.exe
+在release页面下载；下载后解压缩并将ramgs.exe所在的目录添加到环境变量path中。
 ```
 
 ### MCU 端集成
@@ -281,21 +273,6 @@ ramviewer/
 3. **代码贡献**：提交 Pull Request
 4. **文档改进**：完善文档和示例
 5. **MCU 适配**：添加对新 MCU 平台的支持
-
-### 开发指南
-
-```bash
-# 克隆仓库
-git clone https://github.com/your-repo/ramviewer.git
-cd ramviewer
-
-# 安装开发依赖
-cd ramgs
-pip install -e .
-
-# 运行测试
-pytest
-```
 
 ---
 
