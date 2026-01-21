@@ -3,6 +3,8 @@
 **让 AI 真正理解硬件 —— 打通 AIGC 与嵌入式系统的最后一公里**
 > **观看演示视频**：https://www.bailing.design/video/
 
+本仓库只包含MCU端协议实现代码。ramgs.exe命令行工具请在release页面下载；下载后解压缩并将ramgs.exe所在的目录添加到环境变量path中。
+
 [English](#english) | [中文](#中文)
 
 ---
