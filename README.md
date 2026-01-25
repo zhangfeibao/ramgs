@@ -3,7 +3,7 @@
 **让 AI 真正理解硬件 —— 打通 AIGC 与嵌入式系统的最后一公里**
 > **观看演示视频**：https://www.bailing.design/video/
 
-本仓库只包含MCU端协议实现代码。ramgs.exe命令行工具请联系作者获取 382297510@qq.com。
+本仓库只包含MCU端协议实现代码。ramgs.exe命令行工具请在Release页面下载或联系作者获取 382297510@qq.com。
 
 [English](#english) | [中文](#中文)
 
